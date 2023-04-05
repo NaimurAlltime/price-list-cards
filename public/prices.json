@@ -1,0 +1,37 @@
+{
+  "priceOptions": [
+    {
+      "id": 1,
+      "name": "Basic",
+      "price": 29.99,
+      "features": [
+        "Full equipment access",
+        "Locker & shower facilities",
+        "Personal training available"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Premium",
+      "price": 49.99,
+      "features": [
+        "Full equipment access",
+        "Locker & shower facilities",
+        "Unlimited group fitness",
+        "2 free personal training sessions"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Ultimate",
+      "price": 99.99,
+      "features": [
+        "Full equipment access",
+        "Locker & shower facilities",
+        "Unlimited group fitness",
+        "4 free personal training sessions",
+        "Exclusive members-only events"
+      ]
+    }
+  ]
+}

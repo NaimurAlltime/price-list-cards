@@ -12,7 +12,7 @@ const Navbar = () => {
     { id: 4, name: "Contact Us", path: "/contact" },
   ];
   return (
-    <nav className="bg-purple-100 py-3">
+    <nav className="bg-purple-100 py-3 px-4">
       <div className="md:hidden" onClick={() => setOpen(!open)}>
         <span>
           {open === true ? (
