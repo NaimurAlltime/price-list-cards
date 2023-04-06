@@ -2,6 +2,7 @@ import { useState } from "react";
 import "./App.css";
 import Dashboard from "./components/Dashboard/Dashboard";
 import Navbar from "./components/Navbar/Navbar";
+import Phones from "./components/Phones/Phones";
 import PriceList from "./components/PriceList/PriceList";
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
       </h1>
       <PriceList></PriceList>
       <Dashboard></Dashboard>
+      <Phones></Phones>
     </div>
   );
 }
